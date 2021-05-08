@@ -9,5 +9,5 @@ This project is a starting point for a Flutter application.
 this is a simple ethereum concept wallet built on flutter and dart . 
 
 
-[<img src="http://i3.ytimg.com/vi/_Pyybw7rcus/maxresdefault.jpg" width="50%">](https://youtu.be/_Pyybw7rcus)
+[<img src="https://github.com/joshualyguessennd/flutter_wallet/blob/main/picture.png" width="50%">](https://youtu.be/_Pyybw7rcus)
 
